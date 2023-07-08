@@ -1,0 +1,17 @@
+D:\Projects\test11\bin\Debug\net6.0-windows\test11.exe
+D:\Projects\test11\bin\Debug\net6.0-windows\test11.deps.json
+D:\Projects\test11\bin\Debug\net6.0-windows\test11.runtimeconfig.json
+D:\Projects\test11\bin\Debug\net6.0-windows\test11.dll
+D:\Projects\test11\bin\Debug\net6.0-windows\test11.pdb
+D:\Projects\test11\obj\Debug\net6.0-windows\test11.vbproj.AssemblyReference.cache
+D:\Projects\test11\obj\Debug\net6.0-windows\test11.Form1.resources
+D:\Projects\test11\obj\Debug\net6.0-windows\test11.vbproj.GenerateResource.cache
+D:\Projects\test11\obj\Debug\net6.0-windows\test11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\test11\obj\Debug\net6.0-windows\test11.AssemblyInfoInputs.cache
+D:\Projects\test11\obj\Debug\net6.0-windows\test11.AssemblyInfo.vb
+D:\Projects\test11\obj\Debug\net6.0-windows\test11.vbproj.CoreCompileInputs.cache
+D:\Projects\test11\obj\Debug\net6.0-windows\test11.dll
+D:\Projects\test11\obj\Debug\net6.0-windows\refint\test11.dll
+D:\Projects\test11\obj\Debug\net6.0-windows\test11.pdb
+D:\Projects\test11\obj\Debug\net6.0-windows\test11.genruntimeconfig.cache
+D:\Projects\test11\obj\Debug\net6.0-windows\ref\test11.dll
